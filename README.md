@@ -56,21 +56,38 @@ i have opend 14 tabs. all of them are study related. 3 github, 1 scratch, 4 rese
 
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
+No
+
 ### What is an IDE?
 
+An IDE, or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program.
+
 ### What did you learn out of the Marshmallow Challenge?
+
+i havnt't attend the class
 
 ### Did you have any blocks during this challenge? How did you overcome them?
 
 ### So far, what was the hardest moment of this course for you?
 
+the course is fine but i have issues with time managment. due to work.
+
 ### What is OOP?
+
+Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic.
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
+Yes I do and its usefull.
+
 ### Which parts of the work did you find tedious?
 
+nothing sofar
+
 ### What is polymorphism?
+
+polymorphism is the provision of a single interface to entities of different types or the use of a single symbol to represent multiple different types.
+
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
