@@ -1,13 +1,24 @@
 # Research-Repository
+
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+
+I do take a break when I fill tyred( hurt my eays) or after complate tasks. so i dont take a break regulally. yes I do streach my body. 
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 
+Timeboxing is using fixed time period to complate tasks, However i don't use timeboxing for my most works. i don't think i will use it much. i like doing things when i fill doing it. unless i will gate board or stressed. 
+
 ### On a a 0-5 scale, how confident are you with each of the assignments?
+
+I say like 4 or 4.5
 
 ### What are of you proud of up to this point in the course?
 
+starting this course is a new expriance for me so i'm proud of i got introduced with programing languages like python. 
+
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
+
+
 
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
