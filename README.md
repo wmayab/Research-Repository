@@ -35,13 +35,22 @@ Not yet but I'm trying.
 
 ### Have you meditated before?
 
+No
+
 ### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
+
+i don't have spacial things, but i have graduated in Mechanical Engineering and i know how to solve rubik's cube.
 
 ### Do you consider yourself a developer yet?
 
+Not yet but I wil be soon.
+
 ### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 
+i deffinetly creativity has value, its a geanerator of new ideas and solutions. 
+
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
+
 
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
