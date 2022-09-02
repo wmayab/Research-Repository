@@ -18,14 +18,20 @@ starting this course is a new expriance for me so i'm proud of i got introduced 
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
-
+yes i do, My learning stratage is slef study i like educate my self by researching and using other sorces than stragling to undrstan on the leacture. my stratage reduce amount of time i spand on studing beacause i skip things that i don't fill usefull. however, sometime i spend lots of time to undrstand one thing spacially undrstanding the fllow (meaning) of the topic.
 
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 
+maybe to practice python eavry day and to complet tasks before deudate.
+
 ### What is Python?
 
+python is a computer programming language that use to build website, games, applications and more.
+
 ### Have you developed a habit of exploring?
+
+Not yet but I'm trying.
 
 ### Have you meditated before?
 
