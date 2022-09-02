@@ -51,6 +51,8 @@ i deffinetly creativity has value, its a geanerator of new ideas and solutions.
 
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 
+i have opend 14 tabs. all of them are study related. 3 github, 1 scratch, 4 research,2 team 3  student hub , 1 week 3 lab activity
+
 
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
